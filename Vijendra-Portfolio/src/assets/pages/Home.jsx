@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./Home.module.css";
 import myImage from "../../assets/VijendraChouhan.png";
-import myResume from "../../assets/Vijendra-Chouhan.pdf";
+import myResume from "../../assets/Vijendra Chouhan-cap05_205-Frontend Developer(React) (1).pdf";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 function Home() {
